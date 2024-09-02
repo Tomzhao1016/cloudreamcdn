@@ -8,12 +8,15 @@
 
 ## 访问方式
 
+- 自动跳转域名(自动跳转到可用线路) ： [https://autocdn.cloudream.top/](https://autocdn.cloudream.top/)
+- 
 - 全球加速域名(5G) ： [https://cdn.cloudream.top/](https://cdn.cloudream.top/)
-- 自建大陆优化(1G) ： [https://v1.cdn.cloudream.top/](https://v1.cdn.cloudream.top/)
-- 自建大陆优化(100M 维护,先用v1) ： [https://v2.cdn.cloudream.top/](https://v2.cdn.cloudream.top/)
-- 自建大陆优化(120M 热备,优先v1) ： [https://v3.cdn.cloudream.top/](https://v3.cdn.cloudream.top/)
+- 自建大陆优化(1G) ： 维护
+- 香港三线聚合(15M 除境内延迟最低) ： [https://hk.cdn.cloudream.top/](https://hk.cdn.cloudream.top/)
 - 中国杭州(3M) ： [https://tomzhao.ysfg.cc/](https://tomzhao.ysfg.cc/)
-- 中国大陆CDN(500M) ： [https://tomcdn.ysfg.cc/](https://tomcdn.ysfg.cc/)
+- 中国大陆CDN(500M 与云上法顾共用) ： [https://file.ysfg.cc/](https://file.ysfg.cc/)
+- 
+- 状态监测：[https://status.ysfg.cc/status/cdn/](https://status.ysfg.cc/status/cdn/)
 
 ##  版权声明
 
@@ -25,7 +28,7 @@
 
 不要长时间占用带宽，使用免费服务时的那些规矩你应该知道。
 
-已为中国大陆提供713.79MB数据(优化线路)17MB数据(境内线路)已为全球提供1.7G数据(全球线路)[数据更新时间2024年7月2日]
+已为中国大陆提供1.6GB数据(优化线路)649.7MB数据(境内线路)已为全球提供19.7G数据(全球线路)[数据更新时间2024年8月12日]
 
 ## 驱动说明
 
@@ -37,6 +40,8 @@
 - [云上法顾](https://ysfg.cc/) (提供中国大陆服务器)
 
 ## 赞助我们
+
+感谢以下赞助商的大力支持：[Tom_zhao Studio](https://tomzhao.top/)、[云上法顾](https://ysfg.cc/)、鸣月
 
 运营有成本 , 您的支持对我们非常重要 ! 
 [跳转至爱发电](https://afdian.net/a/tomzhao)
