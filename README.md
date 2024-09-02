@@ -12,7 +12,6 @@
 - 
 - 全球加速域名(5G) ： [https://cdn.cloudream.top/](https://cdn.cloudream.top/)
 - 自建大陆优化(1G) ： 维护
-- 香港三线聚合(15M 除境内延迟最低) ： [https://hk.cdn.cloudream.top/](https://hk.cdn.cloudream.top/)
 - 中国杭州(3M) ： [https://tomzhao.ysfg.cc/](https://tomzhao.ysfg.cc/)
 - 中国大陆CDN(500M 与云上法顾共用) ： [https://file.ysfg.cc/](https://file.ysfg.cc/)
 - 
